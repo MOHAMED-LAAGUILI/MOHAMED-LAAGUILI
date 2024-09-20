@@ -19,8 +19,7 @@ I'm MOHAMED, a passionate MERN stack developer from Morocco with a strong backgr
 **Current Focus**
 -----------------
 * Mastering MERN Stack Web Development🚀
-* Mastering Mobile Apps IOS/Android Cross Platform Development 📲⚡️
-* Mastering React-native Apps development ☁️📲
+* Mastering Mobile Apps IOS/Android Cross Platform Development with  React-native or Flutter 📲⚡️
 
 **Collaboration**
 ---------------
