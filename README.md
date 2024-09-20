@@ -7,14 +7,14 @@ I'm MOHAMED, a passionate MERN stack developer with a strong background in web d
 **Expertise**
 -------------
 * Web-Sites Development 🌐:<br>
-   HTML-CSS Aryo Css/Bootstrap/Tailwind Css
-   JS React.js, Node, and Express JS
-   MongoDB/MySQL/FireBase 
-* Mobile Apps Development 📲:
-   Dart & Flutter
-   React-native
-* Artificial Intelligence 🤖:
-   AI algorithms, natural language processing, computer visions
+   HTML-CSS Aryo/Bootstrap/Tailwind Css<br>
+   JS React.js, Node, and Express JS<br>
+   MongoDB/MySQL/FireBase <br>
+* Mobile Apps Development 📲:<br>
+   Dart & Flutter<br>
+   React-native<br>
+* Artificial Intelligence 🤖:<br>
+   AI algorithms, natural language processing, computer visions<br>
 
 **Current Focus**
 -----------------
