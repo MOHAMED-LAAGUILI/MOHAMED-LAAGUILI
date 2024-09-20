@@ -25,8 +25,8 @@ I'm MOHAMED, a passionate MERN stack developer with a strong background in web d
 **Collaboration**
 ---------------
 I'm excited to collaborate on innovative projects that push the boundaries of technology 🚀. Let's connect and explore opportunities together! 🤝
-and Learn From Each Other
+and Enjoy Learning From Each Other new methodes.
 
 **Get in Touch**
 ----------------
-Reach out to me at [MOHAMED-LAAGUILI.com](https://mohamed-laaguili.github.io/CV-Portfolio-2-/) for questions, suggestions, or collaboration opportunities .
+Reach out to me at [mohamed-laaguili.com](https://mohamed-laaguili.github.io/CV-Portfolio-2-/) for questions, suggestions, or collaboration opportunities.
