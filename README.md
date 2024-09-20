@@ -29,4 +29,4 @@ and Learn From Each Other
 
 **Get in Touch**
 ----------------
-Reach out to me at [laaguili.epizy.com](https://mohamed-laaguili.github.io/CV-Portfolio-2-/) for questions, suggestions, or collaboration opportunities .
+Reach out to me at [MOHAMED-LAAGUILI.com](https://mohamed-laaguili.github.io/CV-Portfolio-2-/) for questions, suggestions, or collaboration opportunities .
