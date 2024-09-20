@@ -29,4 +29,4 @@ and Learn From Each Other
 
 **Get in Touch**
 ----------------
-Reach out to me at [https://laaguili.epizy.com](https://laaguili.epizy.com) for questions, suggestions, or collaboration opportunities .
+Reach out to me at [laaguili.epizy.com](http://laaguili.epizy.com) for questions, suggestions, or collaboration opportunities .
