@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**MOHAMED-LAAGUILI/MOHAMED-LAAGUILI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About Me**
+================
+I'm MOHAMED, a passionate MERN stack developer with a strong background in web development, software architecture, and artificial intelligence 💻. I thrive on challenges and enjoy finding creative solutions to complex problems 💡.
 
-Here are some ideas to get you started:
+**Expertise**
+-------------
+* Web-Sites Development 🌐:
+   HTML-CSS Aryo Css/Bootstrap/Tailwind Css
+   JS React.js, Node, and Express JS
+   MongoDB/MySQL/FireBase 
+* Mobile Apps Development 📲:
+   Dart & Flutter
+   React-native
+* Artificial Intelligence 🤖:
+   AI algorithms, natural language processing, computer visions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus**
+-----------------
+* Mastering MERN Stack Web Development🚀
+* Mastering Mobile Apps IOS/Android Cross Platform Development 📲⚡️
+* Mastering React-native Apps development ☁️📲
+
+**Collaboration**
+---------------
+I'm excited to collaborate on innovative projects that push the boundaries of technology 🚀. Let's connect and explore opportunities together! 🤝
+and Learn From Each Other
+
+**Get in Touch**
+----------------
+Reach out to me at [https://laaguili.epizy.com](https://laaguili.epizy.com) for questions, suggestions, or collaboration opportunities .
