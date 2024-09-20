@@ -2,13 +2,13 @@
 
 **About Me**
 ================
-I'm MOHAMED, a passionate MERN stack developer with a strong background in web development, software architecture, and artificial intelligence 💻. I thrive on challenges and enjoy finding creative solutions to complex problems 💡.
+I'm MOHAMED, a passionate MERN stack developer from Morocco with a strong background in web & Mobile app development, and artificial intelligence technologies 💻. I thrive on challenges and enjoy finding creative solutions to complex problems 💡.
 
 **Expertise**
 -------------
 * Web-Sites Development 🌐:<br>
    HTML-CSS Aryo/Bootstrap/Tailwind Css<br>
-   JS React.js, Node, and Express JS<br>
+   JS React.js, Node, and Express JS, PHP<br>
    MongoDB/MySQL/FireBase <br>
 * Mobile Apps Development 📲:<br>
    Dart & Flutter<br>
