@@ -6,6 +6,7 @@ I'm MOHAMED, a passionate MERN stack developer from Morocco with a strong backgr
 
 **Expertise**
 -------------
+<tr/>
 * Web-Sites Development 🌐:<br>
    HTML-CSS Aryo/Bootstrap/Tailwind Css<br>
    JS React.js, Node, and Express JS, PHP<br>
@@ -20,6 +21,7 @@ I'm MOHAMED, a passionate MERN stack developer from Morocco with a strong backgr
 -----------------
 * Mastering MERN Stack Web Development🚀
 * Mastering Mobile Apps IOS/Android Cross Platform Development with  React-native or Flutter 📲⚡️
+* Developing my Soft skills and Communication 
 
 **Collaboration**
 ---------------
