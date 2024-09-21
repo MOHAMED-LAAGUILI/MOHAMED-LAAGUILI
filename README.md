@@ -10,7 +10,7 @@ I'm MOHAMED, a passionate MERN stack developer from Morocco with a strong backgr
    HTML - CSS - AryoUI/Bootstrap/Tailwind Css - JS<br>
    React.js/Vite.js - Node.js/Express.js<br>
    MongoDB/MySQL/FireBase <br>
-* Mobile Apps Development 📲:<br>
+* Cross-platform Mobile Apps Development 📲:<br>
    Ionic<br>
    React Native<br>
 * Artificial Intelligence 🤖:<br>
