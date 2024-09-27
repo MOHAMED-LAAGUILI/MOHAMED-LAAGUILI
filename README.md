@@ -7,26 +7,29 @@ I'm MOHAMED, a passionate MERN stack developer from Morocco with a strong backgr
 **Expertise**
 -------------
 * Web-Sites Development 🌐:<br>
-   HTML - CSS - AryoUI/Bootstrap/Tailwind Css - JS<br>
-   React.js/Vite.js - Node.js/Express.js<br>
+   HTML - CSS - JS <br>
+  AryoUI/Bootstrap/Tailwind Css <br>
+   React/Vite - NodeJS/Express<br>
+   MaterialUI - Chakra UI - shadcnUI
    MongoDB/MySQL/FireBase <br>
-* Cross-platform Mobile Apps Development 📲:<br>
+* Cross-platform Mobile Apps Development 📲: (Soon)<br>
    Ionic<br>
    React Native<br>
-* Artificial Intelligence 🤖:<br>
-   AI algorithms, natural AI language processing, computer visions<br>
+   Flutter <br>
 
 **Current Focus**
 -----------------
 * Mastering MERN Stack Web Development🚀
-* Mastering Mobile Apps IOS/Android Cross Platform Development with  React-native or Flutter 📲⚡️
-* Developing my Soft skills and Communication 
+* Mastering Mobile Apps IOS/Android Cross Platform Development 📲⚡️
+* Generally developing my Hard & Soft skills 
 
 **Collaboration**
 ---------------
 I'm excited to collaborate on innovative projects that push the boundaries of technology 🚀. Let's connect and explore opportunities together! 🤝
-and Enjoy Learning From Each Other new methodes.
+and Enjoy Working & Learning From & with Each Other.
 
 **Get in Touch**
 ----------------
 Reach out to me at [mohamed-laaguili.com](https://mohamed-laaguili.github.io/CV-Portfolio-2-/) for questions, suggestions, or collaboration opportunities.
+
+Thank you🤝
