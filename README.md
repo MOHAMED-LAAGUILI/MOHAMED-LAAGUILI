@@ -9,7 +9,7 @@ I'm MOHAMED, a passionate MERN stack developer from Morocco with a strong backgr
 * Web-Sites Development 🌐:<br>
    HTML - CSS - JS <br>
   AryoUI/Bootstrap/Tailwind Css <br>
-   React/Vite - NodeJS/Express<br>
+   React/Vite - NodeJS/Express/NextJS<br>
    MaterialUI - Chakra UI - shadcnUI
    MongoDB/MySQL/FireBase <br>
 * Cross-platform Mobile Apps Development 📲: (Soon)<br>
@@ -37,15 +37,15 @@ Thank you🤝
 
 
 <div align="center">
-    <h1>Hai, I am <a href="https://aromalanil.in" target="_blank">Aromal</a> <img
+    <h1>Hi, I am <a href="https://aromalanil.in" target="_blank">MOHAMED</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Fullstack developer</b> 🚀 from <b>Kerala, India</b> <img
+        I am a <b>Fullstack developer</b> 🚀 from <b>Morocco</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
-        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+        I love building sleek side projects 😍, most of them are <b>Open source</b>. </p>
     <div>
         <a href="https://twitter.com/aromalanil5" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -68,7 +68,7 @@ Thank you🤝
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
+            <li> 👨🏻‍💻 I'm currently working on my Self improving my dev skills</li>
             <li> 💬 Ask me about React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="16" />, Javascript <img align="center"
@@ -79,9 +79,9 @@ Thank you🤝
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:aromalanilkannan@gmail.com" target="_blank">aromalanilkannan@gmail.com</a></li>
-            <li>👀 Take a look at <a href="https://aromalanil.in/" target="_blank">My Portfolio</a></li>
-            <li>📄 Here's my <a href="https://aromalanil.in/assets/resources/resume.pdf" target="_blank">Resume</a></li>
+                <a href="mailto:saidlergili@gmail.com" target="_blank">saidlergili@gmail.com</a></li>
+            <li>👀 Take a look at <a href="https://laaguili.epizy.com/" target="_blank">My Portfolio</a></li>
+            <li>📄 Here's my <a href="https://laaguili.epizy.com/IT CV.pdf" target="_blank">Resume</a></li>
         </ul>
     </div>
     <div>
@@ -144,7 +144,7 @@ Thank you🤝
             </summary>
             <br />
             <p align="center">
-                <img height="160" alt="Aromal's Github Stats"
+                <img height="160" alt="laaguili's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=dark&count_private=true" />
                 <img alt="Aromal's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=dark" />
