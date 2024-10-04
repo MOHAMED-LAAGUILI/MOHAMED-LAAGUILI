@@ -20,7 +20,7 @@ I'm MOHAMED, a passionate MERN stack developer from Morocco with a strong backgr
 
 **Current Focus**
 -----------------
-* Code Clean Code and Enhance/Improve my UI/UX 
+* Coding Clean Code and Enhance/Improve my UI/UX Skill
 * Mastering Fully MERN Stack Web Development🚀
 * Mastering Mobile Apps IOS/Android Cross Platform Development 📲⚡️
 * Generally developing my Hard & Soft skills
