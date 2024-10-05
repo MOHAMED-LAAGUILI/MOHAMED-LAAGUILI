@@ -94,3 +94,82 @@
 <div align="center">
     <a href="https://www.buymeacoffee.com/mohamedlaaguili" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
 </div>
+
+
+<h2>Languages & Tools 🛠️</h2>
+
+<style>
+  .tab {
+    display: inline-block;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    margin-right: -1px; /* To overlap borders */
+    transition: background-color 0.3s;
+  }
+  .tab:hover {
+    background-color: #ddd;
+  }
+  .tab-content {
+    display: none; /* All content is hidden by default */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-top: none; /* Hide border at the top to make it seamless */
+    animation: fadeIn 0.5s; /* Simple fade-in animation */
+  }
+  /* Example to display the first tab by default */
+  .tab-content:first-of-type {
+    display: block;
+  }
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+</style>
+
+<div>
+  <div class="tab" onclick="document.getElementById('content1').style.display='block'; document.getElementById('content2').style.display='none'; document.getElementById('content3').style.display='none'; document.getElementById('content4').style.display='none';">Languages</div>
+  <div class="tab" onclick="document.getElementById('content1').style.display='none'; document.getElementById('content2').style.display='block'; document.getElementById('content3').style.display='none'; document.getElementById('content4').style.display='none';">UI Frameworks</div>
+  <div class="tab" onclick="document.getElementById('content1').style.display='none'; document.getElementById('content2').style.display='none'; document.getElementById('content3').style.display='block'; document.getElementById('content4').style.display='none';">Back-End Technologies</div>
+  <div class="tab" onclick="document.getElementById('content1').style.display='none'; document.getElementById('content2').style.display='none'; document.getElementById('content3').style.display='none'; document.getElementById('content4').style.display='block';">Databases</div>
+
+  <div class="tab-content" id="content1">
+    <p>HTML, CSS, JavaScript, React.js, Dart</p>
+    <p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" alt="HTML" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" alt="CSS" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" alt="JavaScript" />
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" alt="React.js" />
+      <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48" alt="Dart" />
+    </p>
+  </div>
+
+  <div class="tab-content" id="content2">
+    <p>Bootstrap, Tailwind CSS, Chakra UI, Flowbite UI</p>
+    <p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" alt="Bootstrap" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" alt="Tailwind CSS" />
+      <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored.svg" width="48" alt="Chakra UI" />
+      <img src="https://flowbite.com/docs/images/logo.svg" width="48" alt="Flowbite UI" />
+    </p>
+  </div>
+
+  <div class="tab-content" id="content3">
+    <p>Node.js, Express.js, Next.js</p>
+    <p align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" alt="Node.js" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="80" alt="Express.js" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" alt="Next.js" />
+    </p>
+  </div>
+
+  <div class="tab-content" id="content4">
+    <p>MongoDB, MySQL, Firebase, JSON Server</p>
+    <p align="center">
+      <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" width="48" alt="MongoDB" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="48" alt="MongoDB" />
+    </p>
+  </div>
+</div>
+
