@@ -4,7 +4,7 @@
     <br/><br/>
     <p>
         🙏🏻 Welcome to my GitHub profile! <br />
-        I'm a <strong>MERN Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦. I have a strong passion for web and mobile app development, along with a deep interest in artificial intelligence technologies. I love tackling challenging problems and finding creative solutions! 💡
+        I'm a <strong>MERN Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦. I have a strong passion for web and mobile app development, along with a deep interest in artificial intelligence technologies. I love tacking challenging problems and finding creative solutions! 💡
     </p>
 </div>
 
