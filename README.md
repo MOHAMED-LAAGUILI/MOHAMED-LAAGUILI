@@ -1,20 +1,10 @@
 <div align="center">
-    <!-- Waving Hand GIF & Animated Text -->
-    <h1 style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" style="filter: hue-rotate(180deg); transition: all 1s ease;" onmouseover="this.style.filter=''; this.style.transform='rotate(20deg)';" onmouseout="this.style.filter='hue-rotate(180deg)'; this.style.transform='rotate(0deg)';" />
-        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=500&height=70&lines=Hi+There!;+I'm+Mohamed" alt="Hi There! I'm Mohamed" />
-    </h1>
-
- 
-    <img alt="Developer Pic" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);" />
+    <h1>Hi there, I'm <a href="https://mohamed-laaguili.github.io/CV-Portfolio-2-/" target="_blank">MOHAMED</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <img alt="Developer Pic" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
-
-  
     <p>
         🙏🏻 Welcome to my GitHub profile! <br />
-        I'm a <strong>passionate MERN Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦. 
-        I have a strong passion for web and mobile app development and a deep interest in artificial intelligence technologies. 
-        I love tackling challenging problems and finding creative solutions! 💡
+        I'm a <strong>MERN Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦. I have a strong passion for web and mobile app development, along with a deep interest in artificial intelligence technologies. I love tacking challenging problems and finding creative solutions! 💡
     </p>
 </div>
 
