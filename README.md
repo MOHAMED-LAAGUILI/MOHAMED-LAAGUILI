@@ -24,7 +24,7 @@
 <!-- Technologies & Tools Section with Icons -->
 <h2>Languages, Frameworks & Tools 🛠️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,mui,chakraui,flowbite" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,shadcn,react,vite,mui,chakraui,flowbite" alt="Tech Stack" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql,firebase,git,github,json" alt="Tech Stack 2" />
 </div>
 
