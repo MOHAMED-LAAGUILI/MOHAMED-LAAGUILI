@@ -50,7 +50,7 @@
 
 <hr/>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Thought%20balloon/Thinking%20Face.png" width="30px" alt="Thinking Emoji"/> Current Focus:</div>
+### <div>🤔 Current Focus:</div>
 <ul>
     <li>🧑‍💻 Writing clean, maintainable code and improving UI/UX design.</li>
     <li>🚀 Mastering full MERN stack development.</li>
@@ -58,13 +58,15 @@
     <li>📈 Continuously developing my hard and soft skills to stay ahead in the tech world.</li>
 </ul>
 
+
 <hr/>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="30px" alt="Handshake Emoji"/> Collaboration:</div>
+### <div>🤝 Collaboration:</div>
 <p>
     I'm open to collaborating on exciting projects that push the boundaries of technology! 
     Whether you're looking to build the next big thing or need help with your project, let's connect and create something amazing together.
 </p>
+
 
 <!-- Snake Eating Contributions Animation -->
 <div align="center">
@@ -74,7 +76,7 @@
 
 <hr/>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Communication/Envelope.png" width="30px" alt="Envelope Emoji"/> Get in Touch:</div>
+### <div>✉️ Get in Touch:</div>
 <ul>
     <li>📧 <a href="mailto:mohamed.dev.2001@gmail.com" target="_blank">Email me</a></li>
     <li>🌐 <a href="https://laaguili.epizy.com/" target="_blank">Check out my Portfolio</a></li>
