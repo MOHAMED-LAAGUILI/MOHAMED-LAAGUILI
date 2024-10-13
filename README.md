@@ -6,12 +6,15 @@
         <img align="right" src="https://komarev.com/ghpvc/?username=mohamed-laaguili" alt="GitHub profile views counter"/>
     </h1>
 
-    <img alt="Developer Pic" src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
-    <br/><br/>
-    <p>
-        🙏🏻 Welcome to my GitHub profile! <br />
-        I'm a <strong>MERN Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦. I have a strong passion for web and mobile app development and a deep interest in artificial intelligence technologies. Always eager to improve my skills and contribute to the dev community. I love tackling challenging problems and finding creative solutions! 💡
-    </p>
+<div align="center">
+    ![Developer Pic](https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png)
+</div>
+
+<p>
+    🙏🏻 Welcome to my GitHub profile!<br />
+    I'm a <strong>MERN Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦. I have a strong passion for web and mobile app development and a deep interest in artificial intelligence technologies. Always eager to improve my skills and contribute to the dev community. I love tackling challenging problems and finding creative solutions! 💡
+</p>
+
 </div>
 
 <hr/>
