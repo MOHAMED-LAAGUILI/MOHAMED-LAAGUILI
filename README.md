@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%">
+    <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%" height="200px">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
     <h1>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
         Hi, I'm <a href="https://mohamed-laaguili.github.io/CV-Portfolio-2-/" target="_blank"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Mohamed's GitHub Avatar" width="60px"/> MOHAMED</a>! 
@@ -13,7 +14,8 @@
 
 </div>
 
-<hr/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" alt="Rocket Emoji"/> About Me:</div>
 <ul>
@@ -23,16 +25,16 @@
     <li>💬 Ask me about React, Node.js, JavaScript, or anything related to web technologies!</li>
 </ul>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
 
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" alt="Laptop Emoji" /> Languages, Frameworks & Tools 🛠️:</div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,mui,nodejs,express,nextjs,mongodb,mysql,firebase,git,github" alt="Tech Stack" />
 </div>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
 
-### <div><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" align="right" alt="Professional Animation Coder" /> My Expertise:</div>
+### <div><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="Professional Animation Coder" /> My Expertise:</div>
 <h3>Web Development 🌐</h3>
 <ul>
     <li>Basics: HTML, CSS, JavaScript</li>
@@ -48,9 +50,9 @@
     <li>Currently Learning: Ionic, React Native, Dart/Flutter</li>
 </ul>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
 
-### <div>🤔 Current Focus:</div>
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Thought%20balloon/Thinking%20Face.png" width="30px" alt="Thinking Emoji"/> Current Focus:</div>
 <ul>
     <li>🧑‍💻 Writing clean, maintainable code and improving UI/UX design.</li>
     <li>🚀 Mastering full MERN stack development.</li>
@@ -58,15 +60,13 @@
     <li>📈 Continuously developing my hard and soft skills to stay ahead in the tech world.</li>
 </ul>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
 
-<hr/>
-
-### <div>🤝 Collaboration:</div>
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="30px" alt="Handshake Emoji"/> Collaboration:</div>
 <p>
     I'm open to collaborating on exciting projects that push the boundaries of technology! 
     Whether you're looking to build the next big thing or need help with your project, let's connect and create something amazing together.
 </p>
-
 
 <!-- Snake Eating Contributions Animation -->
 <div align="center">
@@ -74,9 +74,9 @@
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<hr/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
 
-### <div>✉️ Get in Touch:</div>
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Communication/Envelope.png" width="30px" alt="Envelope Emoji"/> Get in Touch:</div>
 <ul>
     <li>📧 <a href="mailto:mohamed.dev.2001@gmail.com" target="_blank">Email me</a></li>
     <li>🌐 <a href="https://laaguili.epizy.com/" target="_blank">Check out my Portfolio</a></li>
