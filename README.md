@@ -34,7 +34,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
 
-### <div><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="Professional Animation Coder" /> My Expertise:</div>
+### <div><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" align="right" alt="Professional Animation Coder" /> My Expertise:</div>
 <h3>Web Development 🌐</h3>
 <ul>
     <li>Basics: HTML, CSS, JavaScript</li>
