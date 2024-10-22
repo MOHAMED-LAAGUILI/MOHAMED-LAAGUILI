@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,mui,nodejs,express,nextjs,mongodb,mysql,firebase,git,github" alt="Tech Stack" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="80%" >
 
 ### <div><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" align="right" alt="Professional Animation Coder" /> My Expertise:</div>
 <h3>Web Development 🌐</h3>
