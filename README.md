@@ -32,9 +32,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,mui,nodejs,express,nextjs,mongodb,mysql,firebase,git,github" alt="Tech Stack" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="80%" >
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="10" >
 
-### <div><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="400px" align="right" alt="Professional Animation Coder" /> My Expertise:</div>
+### <div><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="470px" align="right" alt="Professional Animation Coder" /> My Expertise:</div>
 <h3>Web Development 🌐</h3>
 <ul>
     <li>Basics: HTML, CSS, JavaScript</li>
@@ -89,7 +89,7 @@
         <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200">
     </a>
 </div>
-
+ <br>
 <!-- Social Media Icons -->
 <div align="center">
     <a href="mailto:mohamed.dev.2001@gmail.com" target="_blank">
