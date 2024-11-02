@@ -80,7 +80,7 @@
 <ul>
     <li>📧 <a href="mailto:mohamed.dev.2001@gmail.com" target="_blank">Email me</a></li>
     <li>🌐 <a href="https://laaguili.epizy.com/" target="_blank">Check out my Portfolio</a></li>
-    <li>📄 <a href="https://laaguili.epizy.com/IT%20CV.pdf" target="_blank">View my Resume</a></li>
+    <li>📄 <a href="https://laaguili.app.genez.io" target="_blank">View my Resume</a></li>
 </ul>
 
 <!-- Buy Me A Coffee Button -->
@@ -98,7 +98,7 @@
     <a href="https://www.linkedin.com/in/mohamed-laaguili" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://laaguili.epizy.com/" target="_blank">
+    <a href="https://laaguili.app.genez.io/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
