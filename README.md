@@ -1,9 +1,9 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" width="100%" height="200px">
-    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
+    <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner showcasing a professional profile" style="width: 100%; height: auto; border-radius: 8px;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" style="width: 100%; height: auto;">
     <h1>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-        Hi, I'm <a href="https://mohamed-laaguili.github.io/CV-Portfolio-2-/" target="_blank"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Mohamed's GitHub Avatar" width="60px"/> MOHAMED</a>! 
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" style="width: 30px; vertical-align: middle;"/> 
+        Hi, I'm <a href="https://mohamed-laaguili.github.io/CV-Portfolio-2-/" target="_blank"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Mohamed's GitHub Avatar" style="width: 60px; border-radius: 50%;"/> MOHAMED</a>! 
         <img align="right" src="https://komarev.com/ghpvc/?username=mohamed-laaguili" alt="GitHub profile views counter"/>
     </h1>
 
@@ -11,86 +11,55 @@
     🙏🏻 Welcome to my GitHub profile!<br />
     I'm a <strong>MERN Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦. I have a strong passion for web and mobile app development and a deep interest in artificial intelligence technologies. Always eager to improve my skills and contribute to the dev community. I love tackling challenging problems and finding creative solutions! 💡
 </p>
-
 </div>
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
+### 🚀 About Me:
+<img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="650px" align=""  alt="Professional Animation Coder" />
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" alt="Rocket Emoji"/> About Me:</div>
-<ul>
-    <li>💻 Web & Mobile Developer with expertise in the MERN stack and growing proficiency in cross-platform mobile apps.</li>
-    <li>🎓 Always learning, currently focused on mastering React Native and Flutter for mobile development.</li>
-    <li>🚀 I thrive on building sleek side projects and enjoy contributing to open-source development.</li>
-    <li>💬 Ask me about React, Node.js, JavaScript, or anything related to web technologies!</li>
-</ul>
+- 💻 **Web & Mobile Developer** with expertise in the **MERN stack** and growing proficiency in **cross-platform mobile apps**.
+- 🎓 **Always learning**: Currently focused on mastering **React Native** and **Flutter** for mobile development.
+- 🚀 I thrive on building **sleek side projects** and enjoy contributing to **open-source development**.
+- 💬 **Ask me about** React, Node.js, JavaScript, or anything related to **web technologies**!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
+---
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" alt="Laptop Emoji" /> Languages, Frameworks & Tools 🛠️:</div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,mui,nodejs,express,nextjs,mongodb,mysql,firebase,git,github" alt="Tech Stack" />
+### 🛠️ Languages, Frameworks & Tools:
+<div align="center" style="flex-wrap: wrap; display: flex; justify-content: center;">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" alt="Material UI">
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="10" >
+---
 
-### <div><img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="470px" align="right" alt="Professional Animation Coder" /> My Expertise:</div>
-<h3>Web Development 🌐</h3>
-<ul>
-    <li>Basics: HTML, CSS, JavaScript</li>
-    <li>CSS Libraries: AryoUI, Bootstrap, Tailwind CSS</li>
-    <li>Front-End: React, Vite</li>
-    <li>Back-End: Node.js, Express, Next.js</li>
-    <li>UI Toolkits: Material UI, Chakra UI, Shadchan UI, Flowbite UI</li>
-    <li>Databases: MongoDB, MySQL, Firebase, JSON Server</li>
-</ul>
+### 🌟 Current Focus:
+- 🧑‍💻 Writing clean, maintainable code and improving UI/UX design.
+- 🚀 Mastering full MERN stack development.
+- 📲 Diving into cross-platform mobile app development (iOS & Android).
+- 📈 Continuously developing my hard and soft skills to stay ahead in the tech world.
 
-<h3>Cross-Platform Mobile App Development 📱</h3>
-<ul>
-    <li>Currently Learning: Ionic, React Native, Dart/Flutter</li>
-</ul>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
+### 🤝 Collaboration:
+I'm open to collaborating on exciting projects that push the boundaries of technology! Whether you're looking to build the next big thing or need help with your project, let's connect and create something amazing together.
 
-### <div>🤔 Current Focus:</div>
-<ul>
-    <li>🧑‍💻 Writing clean, maintainable code and improving UI/UX design.</li>
-    <li>🚀 Mastering full MERN stack development.</li>
-    <li>📲 Diving into cross-platform mobile app development (iOS & Android).</li>
-    <li>📈 Continuously developing my hard and soft skills to stay ahead in the tech world.</li>
-</ul>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
-
-### <div>🤝 Collaboration:</div>
-<p>
-    I'm open to collaborating on exciting projects that push the boundaries of technology! 
-    Whether you're looking to build the next big thing or need help with your project, let's connect and create something amazing together.
-</p>
-
-<!-- Snake Eating Contributions Animation -->
-<div align="center">
-    <h2>🐍 My Contributions 🐍</h2>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%" >
-
-### <div>✉️ Get in Touch:</div>
-<ul>
-    <li>📧 <a href="mailto:mohamed.dev.2001@gmail.com" target="_blank">Email me</a></li>
-    <li>🌐 <a href="https://laaguili.epizy.com/" target="_blank">Check out my Portfolio</a></li>
-    <li>📄 <a href="https://laaguili.app.genez.io" target="_blank">View my Resume</a></li>
-</ul>
-
-<!-- Buy Me A Coffee Button -->
-<div align="center">
-    <a href="https://www.buymeacoffee.com/mohamedlaaguili" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200">
-    </a>
-</div>
- <br>
-<!-- Social Media Icons -->
+### ✉️ Get in Touch:
 <div align="center">
     <a href="mailto:mohamed.dev.2001@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
