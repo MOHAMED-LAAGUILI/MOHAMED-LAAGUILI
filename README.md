@@ -71,3 +71,9 @@ I'm open to collaborating on exciting projects that push the boundaries of techn
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
+<!-- Buy Me A Coffee Button -->
+<div align="center">
+    <a href="https://www.buymeacoffee.com/mohamedlaaguili" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200">
+    </a>
+</div>
