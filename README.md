@@ -42,7 +42,16 @@
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <!-- Added technologies -->
+    <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/-WebSockets-1C1C1C?style=flat-square&logo=websockets&logoColor=white" alt="WebSockets">
+    <img src="https://img.shields.io/badge/-JSON%20Server-000000?style=flat-square&logo=json&logoColor=white" alt="JSON Server">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/-C%20(Algorithms)-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+    <img src="https://img.shields.io/badge/-Puppeteer%20Testing-00599C?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer">
+    <img src="https://img.shields.io/badge/-Playwright%20Testing-0078D4?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
 </div>
+
 
 ---
 
