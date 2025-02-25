@@ -18,10 +18,10 @@
 ### 🚀 About Me:
 <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="650px" align=""  alt="Professional Animation Coder" />
 
-- 💻 **Web & Mobile Developer** with expertise in the **MERN stack** and growing proficiency in **cross-platform mobile apps**.
+- 💻 **Web & Mobile Developer** with expertise in the **Full stack Development** and growing proficiency in **cross-platform mobile apps**.
 - 🎓 **Always learning**: Currently focused on mastering **React Native** and **Flutter** for mobile development.
 - 🚀 I thrive on building **sleek side projects** and enjoy contributing to **open-source development**.
-- 💬 **Ask me about** React, Node.js, JavaScript, or anything related to **web technologies**!
+- 💬 **Ask me about** React, Node.js, JavaScript, Laravel or anything related to **web technologies**!
 
 ---
 
