@@ -45,6 +45,7 @@
     <!-- Added technologies -->
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/-WebSockets-1C1C1C?style=flat-square&logo=websockets&logoColor=white" alt="WebSockets">
+      <img src="https://img.shields.io/badge/-Puppeteer%20Testing-00599C?style=flat-square&logo=laravel&logoColor=white" alt="laravel">
     <img src="https://img.shields.io/badge/-JSON%20Server-000000?style=flat-square&logo=json&logoColor=white" alt="JSON Server">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/-C%20(Algorithms)-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
