@@ -1,6 +1,3 @@
-Here's a refined version of your GitHub README with improved structure, readability, and a polished design, while keeping the core content intact:
-
----
 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner" style="width: 100%; height: auto; border-radius: 8px;">
