@@ -22,7 +22,7 @@ Here's a refined version of your GitHub README with improved structure, readabil
 <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="650px" alt="Professional Animation Coder"/>
 
 - 💻 Skilled in **Full Stack Development** with growing expertise in **cross-platform mobile apps**.
-- 🎓 Lifelong learner, currently mastering **React Native** and **Flutter**.
+- 🎓 Lifelong learner, currently mastering **React Native**.
 - 🚀 I enjoy building **sleek side projects** and contributing to **open-source** initiatives.
 - 💬 Feel free to ask me about **React**, **JavaScript**, **Laravel**, or anything web-related!
 
@@ -35,7 +35,7 @@ Here's a refined version of your GitHub README with improved structure, readabil
 
 ## 🌟 What I’m Working On
 - 🧑‍💻 Writing clean, maintainable code with a focus on **UI/UX excellence**.
-- 🚀 Advancing my skills in the **MERN stack** (MongoDB, Express.js, React, Node.js).
+- 🚀 Advancing my skills in the **Laravel & React stack** (Laravel , React, Inertia, MySql).
 - 📲 Exploring **cross-platform mobile development** for iOS and Android.
 - 📈 Continuously sharpening my technical and interpersonal skills.
 
