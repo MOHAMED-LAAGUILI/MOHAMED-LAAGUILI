@@ -47,7 +47,7 @@ I’m excited to team up on innovative projects that push tech boundaries! Wheth
 ### 🏆 GitHub Achievements
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yassjustice&theme=radical&row=1&no-frame=true&column=6" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mohamedlaaguili&theme=radical&row=1&no-frame=true&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -56,7 +56,7 @@ I’m excited to team up on innovative projects that push tech boundaries! Wheth
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamed-laaguili&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassjustice&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedlaaguili&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -66,7 +66,7 @@ I’m excited to team up on innovative projects that push tech boundaries! Wheth
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-laaguili&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-
+---
 
 ## ✉️ Connect With Me
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
