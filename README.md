@@ -43,6 +43,31 @@ I’m excited to team up on innovative projects that push tech boundaries! Wheth
 
 ---
 
+
+### 🏆 GitHub Achievements
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yassjustice&theme=radical&row=1&no-frame=true&column=6" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-laaguili&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassjustice&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-laaguili&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+
+
 ## ✉️ Connect With Me
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="mailto:mohamed.dev.2001@gmail.com" target="_blank">
@@ -58,7 +83,7 @@ I’m excited to team up on innovative projects that push tech boundaries! Wheth
 
 <div align="center" style="margin-top: 20px;">
     <a href="https://www.buymeacoffee.com/mohamedlaaguili" target="_blank">
-        <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
     </a>
 </div>
 
@@ -72,3 +97,10 @@ I’m excited to team up on innovative projects that push tech boundaries! Wheth
 5. **Professional Tone**: Enhanced wording to sound polished yet approachable.
 
 Let me know if you'd like further tweaks!
+
+---
+
+<div align="center">
+  <p>✨ Thanks for visiting! Have an awesome day! ✨</p>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100" />
+</div>
