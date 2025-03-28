@@ -20,7 +20,7 @@
 - 💻 Skilled in **Full Stack Development**, with expertise in **cross-platform mobile apps**.
 - 🎓 Constant learner, currently mastering **React Native**.
 - 🛠️ Passionate about crafting **sleek, scalable side projects** and contributing to **open-source** initiatives.
-- 💬 Ask me about **React**, **JavaScript**, **Laravel**, or anything web-related!
+- 💬 Ask me about **React**, **JavaScript**, **Laravel**, **PostgreSQL**, **Bootstrap**, or anything web-related!
 
 ---
 
@@ -28,20 +28,31 @@
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+        
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+    
+ <img src="https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white" alt="GitFlow">
 </div>
 
----
+
+
 
 ## 🌟 What I’m Working On
 - 🧑‍💻 Writing clean, maintainable code with a focus on **UI/UX excellence**.
-- 🚀 Advancing my skills in the **Laravel & React stack** (Laravel, React, Inertia, MySQL).
+- 🚀 Advancing my skills in the **Laravel & React stack**.
 - 📲 Exploring **cross-platform mobile development** for iOS and Android.
 - 📈 Continuously sharpening my technical and interpersonal skills.
 
@@ -49,20 +60,6 @@
 
 ## 🤝 Let’s Collaborate
 I’m always open to working on innovative projects that push tech boundaries! If you have an exciting idea or need an extra hand, let’s connect and bring it to life.
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohamed-laaguili&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
-### 📈 Most Used Languages
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-laaguili&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
