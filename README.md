@@ -12,7 +12,7 @@
   </h1>
 
   <p>
-    Welcome to my GitHub! I’m a <strong>Full Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦 with a passion for building web and mobile applications. I love solving complex challenges through creative solutions and have a growing curiosity about artificial intelligence. Let’s build something amazing together! 💡
+   I’m a <strong>Full Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦 with a passion for building web and mobile applications. I love solving complex challenges through creative solutions and have a growing curiosity about artificial intelligence. Let’s build something amazing together! 💡
   </p>
   
 </div>
@@ -81,7 +81,7 @@ I’m always open to working on innovative projects that push tech boundaries! I
   <a href="https://discord.com/users/1316675038598139936" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="tel:+212689770809" target="_blank">
+  <a href="tel:212689770809" target="_blank">
     <img src="https://img.shields.io/badge/Call-4CAF50?style=for-the-badge&logo=phone&logoColor=white" alt="Call"/>
   </a>
   <a href="https://wa.me/+212689770809" target="_blank">
