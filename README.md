@@ -84,7 +84,4 @@ I’m always open to working on innovative projects that push tech boundaries! I
   <a href="https://wa.me/+212689770809" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="tel:+212689770809" >
-    <img src="https://img.shields.io/badge/call-25D366?style=for-the-badge&logo=call&logoColor=white" alt="call"/>
-  </a>
 </div>
