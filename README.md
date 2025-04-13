@@ -81,9 +81,6 @@ I’m always open to working on innovative projects that push tech boundaries! I
   <a href="https://discord.com/users/1316675038598139936" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="tel:212689770809" target="_blank">
-    <img src="https://img.shields.io/badge/Call-4CAF50?style=for-the-badge&logo=phone&logoColor=white" alt="Call"/>
-  </a>
   <a href="https://wa.me/+212689770809" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
