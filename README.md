@@ -75,7 +75,7 @@ I’m always open to working on innovative projects that push tech boundaries! I
   <a href="https://www.linkedin.com/in/mohamed-laaguili-ab838632a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://laaguili.vercel.app/" target="_blank">
+  <a href="https://mohamedlaaguili-v2.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://discord.com/users/1316675038598139936" target="_blank">
@@ -84,4 +84,7 @@ I’m always open to working on innovative projects that push tech boundaries! I
   <a href="https://wa.me/+212689770809" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+  <a href="https://coff.ee/mohamedlaaguili" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px; width: 217px;">
+</a>
 </div>
