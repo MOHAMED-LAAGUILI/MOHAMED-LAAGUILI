@@ -21,7 +21,7 @@
 <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="650px" alt="Professional Animation Coder"/>
 
 - 💻 Skilled in **Full Stack Development**.
-- 🎓 Constant learner, I'm up to start learning **React Native** to build amazing cross-platform mobile apps.
+- 🎓 Constant learner, I'm up to start learning **Mobile Development** to build amazing cross-platform mobile apps.
 - 🛠️ Passionate about crafting **sleek, scalable side projects** and contributing to **open-source** initiatives.
 - 💬 Ask me about **React**, **Laravel**, **PostgreSQL/MySQL**, **Bootstrap/Tailwind Css**, or anything web-related!
 
