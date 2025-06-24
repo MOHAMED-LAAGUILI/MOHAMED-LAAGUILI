@@ -3,9 +3,6 @@
   <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner" style="width: 100%; height: auto; border-radius: 8px;">
 
   <h1>
-    <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+GitHub+profile!;FullStack+web+developer+in+progress." alt="Typing SVG" />
-  </p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" style="width: 30px; vertical-align: middle;"/>
     Hello, I'm <a href="https://laaguili.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Mohamed's Avatar" style="width: 60px; border-radius: 50%; vertical-align: middle;"/> Mohamed</a>!
     <img align="right" src="https://komarev.com/ghpvc/?username=mohamed-laaguili&color=blue" alt="Profile views counter"/>
