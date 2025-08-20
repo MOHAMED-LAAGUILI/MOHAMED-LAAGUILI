@@ -9,7 +9,7 @@
   </h1>
 
   <p>
-   I’m a <strong>Full Stack Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦 with a passion for building web and mobile applications. I love solving complex challenges through creative solutions and have a growing curiosity about artificial intelligence. Let’s build something amazing together! 💡
+   I’m a <strong>Full Stack Software Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦 with a passion for building web and mobile applications. I love solving complex challenges through creative solutions and have a growing curiosity about artificial intelligence. Let’s build something amazing together! 💡
   </p>
   
 </div>
@@ -21,9 +21,9 @@
 <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="650px" alt="Professional Animation Coder"/>
 
 - 💻 Skilled in **Full Stack Development**.
-- 🎓 Constant learner, I'm up to start learning **Mobile Development** to build amazing cross-platform mobile apps.
+- 🎓 Constant learner, I'm up  **Mobile Development** to build amazing cross-platform mobile apps.
 - 🛠️ Passionate about crafting **sleek, scalable side projects** and contributing to **open-source** initiatives.
-- 💬 Ask me about **React**, **Laravel**, **PostgreSQL/MySQL**, **Bootstrap/Tailwind Css**, or anything web-related!
+- 💬 Ask me about **React/Next/ReactNative**, **Laravel**, **PostgreSQL/MySQL**, **Bootstrap/Tailwind Css**, or anything web-related!
 
 ---
 
