@@ -4,7 +4,7 @@
 
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" style="width: 30px; vertical-align: middle;"/>
-    Hello, I'm <a href="https://laaguili.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Mohamed's Avatar" style="width: 60px; border-radius: 50%; vertical-align: middle;"/> Mohamed</a>!
+    Hello, I'm <a href="https://mohamedlaaguili-v2.vercel.app/" target="_blank"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Mohamed's Avatar" style="width: 60px; border-radius: 50%; vertical-align: middle;"/> Mohamed</a>!
     <img align="right" src="https://komarev.com/ghpvc/?username=mohamed-laaguili&color=blue" alt="Profile views counter"/>
   </h1>
 
