@@ -8,7 +8,7 @@
   </h1>
 
   <p>
-   I’m a <strong>Full Stack Software Developer</strong> 🚀 from <strong>Morocco</strong> 🇲🇦 with a passion for building cross-platform web/mobile/Desktop applications. I love solving complex challenges through creative solutions and have a growing curiosity about artificial intelligence. Let’s build something amazing together! 💡
+𝗜’𝗺 𝗮 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 🚀 𝗳𝗿𝗼𝗺 𝗠𝗼𝗿𝗼𝗰𝗰𝗼 🇲🇦 𝘄𝗶𝘁𝗵 𝗮 𝗽𝗮𝘀𝘀𝗶𝗼𝗻 𝗳𝗼𝗿 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗰𝗿𝗼𝘀𝘀-𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝘄𝗲𝗯/𝗺𝗼𝗯𝗶𝗹𝗲/𝗗𝗲𝘀𝗸𝘁𝗼𝗽 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀. 𝗜 𝗹𝗼𝘃𝗲 𝘀𝗼𝗹𝘃𝗶𝗻𝗴 𝗰𝗼𝗺𝗽𝗹𝗲𝘅 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗵𝗮𝘃𝗲 𝗮 𝗴𝗿𝗼𝘄𝗶𝗻𝗴 𝗰𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆 𝗮𝗯𝗼𝘂𝘁 𝗮𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲. 𝗟𝗲𝘁’𝘀 𝗯𝘂𝗶𝗹𝗱 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝗮𝗺𝗮𝘇𝗶𝗻𝗴 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿! 💡
   </p>
   
 </div>
@@ -93,21 +93,16 @@ With over 3 years of experience in web, mobile, and desktop application developm
 
 ## 🌟 What I’m Working On
 
-- 🧑‍💻 Writing clean, maintainable code with a focus on **UI/UX excellence** and leveraging **Domain-Driven Design (DDD)** to solve complex business problems.
-- 🚀 Advancing my skills in the **Laravel & React stack**, using best practices and industry standards to build scalable and maintainable systems.
-- 📲 Exploring **cross-platform mobile & desktop development** for iOS and Android and other OS like Windows/Mac/Linux, integrating modern frameworks and techniques.
-- 📈 Continuously sharpening my technical and interpersonal skills, embracing **agile methodologies**, **test-driven development (TDD)**, and industry best practices. 
-- 💼 With over **3 years of professional development experience**, I pride myself on **architecting robust, scalable applications** and working with teams to deliver high-quality, performant software solutions.
+- 𝗪𝗿𝗶𝘁𝗶𝗻𝗴 𝗰𝗹𝗲𝗮𝗻, 𝗺𝗮𝗶𝗻𝘁𝗮𝗶𝗻𝗮𝗯𝗹𝗲 𝗰𝗼𝗱𝗲 𝘄𝗶𝘁𝗵 𝗮 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻 **𝗨𝗜/𝗨𝗫 𝗲𝘅𝗰𝗲𝗹𝗹𝗲𝗻𝗰𝗲** 𝗮𝗻𝗱 𝗹𝗲𝘃𝗲𝗿𝗮𝗴𝗶𝗻𝗴 **𝗗𝗼𝗺𝗮𝗶𝗻-𝗗𝗿𝗶𝘃𝗲𝗻 𝗗𝗲𝘀𝗶𝗴𝗻 (𝗗𝗗𝗗)** 𝘁𝗼 𝘀𝗼𝗹𝘃𝗲 𝗰𝗼𝗺𝗽𝗹𝗲𝘅 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀.
+- 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 **𝗰𝗿𝗼𝘀𝘀-𝗽𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗺𝗼𝗯𝗶𝗹𝗲 & 𝗱𝗲𝘀𝗸𝘁𝗼𝗽 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁** 𝗳𝗼𝗿 𝗶𝗢𝗦 𝗮𝗻𝗱 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗮𝗻𝗱 𝗼𝘁𝗵𝗲𝗿 𝗢𝗦 𝗹𝗶𝗸𝗲 𝗪𝗶𝗻𝗱𝗼𝘄𝘀/𝗠𝗮𝗰/𝗟𝗶𝗻𝘂𝘅, 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗻𝗴 𝗺𝗼𝗱𝗲𝗿𝗻 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝘁𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀.
+- 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀𝗹𝘆 𝘀𝗵𝗮𝗿𝗽𝗲𝗻𝗶𝗻𝗴 𝗺𝘆 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗶𝗻𝘁𝗲𝗿𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝘀𝗸𝗶𝗹𝗹𝘀, 𝗲𝗺𝗯𝗿𝗮𝗰𝗶𝗻𝗴 **𝗮𝗴𝗶𝗹𝗲 𝗺𝗲𝘁𝗵𝗼𝗱𝗼𝗹𝗼𝗴𝗶𝗲𝘀**, **𝘁𝗲𝘀𝘁-𝗱𝗿𝗶𝘃𝗲𝗻 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (𝗧𝗗𝗗)**, 𝗮𝗻𝗱 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗯𝗲𝘀𝘁 𝗽𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀. 
+- 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀𝗹𝘆 𝘀𝗲𝗮𝗿𝗰𝗵𝗶𝗻𝗴 𝗳𝗼𝗿 **𝗮𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝗶𝗻𝗴 𝗿𝗼𝗯𝘂𝘀𝘁, 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗮𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀** 𝗮𝗻𝗱 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝘁𝗲𝗮𝗺𝘀 𝘁𝗼 𝗱𝗲𝗹𝗶𝘃𝗲𝗿 𝗵𝗶𝗴𝗵-𝗾𝘂𝗮𝗹𝗶𝘁𝘆, 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝘁 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-I’m always open to working on innovative projects that push tech boundaries! If you have an exciting idea or need an extra hand, let’s connect and bring it to life.
-
----
-
-## ✉️ Connect With Me
+𝗜’𝗺 𝗮𝗹𝘄𝗮𝘆𝘀 𝗼𝗽𝗲𝗻 𝘁𝗼 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘁𝗵𝗮𝘁 𝗽𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 𝗯𝗼𝘂𝗻𝗱𝗮𝗿𝗶𝗲𝘀! 𝗜𝗳 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮𝗻 𝗲𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗶𝗱𝗲𝗮 𝗼𝗿 𝗻𝗲𝗲𝗱 𝗮𝗻 𝗲𝘅𝘁𝗿𝗮 𝗵𝗮𝗻𝗱, 𝗹𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝗮𝗻𝗱 𝗯𝗿𝗶𝗻𝗴 𝗶𝘁 𝘁𝗼 𝗹𝗶𝗳𝗲.
 
 <div align="center">
   <a href="mailto:mohamed.dev.2001@gmail.com" target="_blank">
