@@ -15,12 +15,10 @@
 
 ---
 
-## 🚀 About Me
-- 💻 Skilled in **Full Stack Development**.
-- 🎓 Constant learner, I'm up  **Mobile Development** to build amazing cross-platform mobile apps.
-- 🛠️ Passionate about crafting **sleek, scalable side projects** and contributing to **open-source** initiatives.
-- 💬 Ask me about **React/Next/ReactNative**, **Laravel**, **PostgreSQL/MySQL**, **Bootstrap/Tailwind Css**, or anything web-related!
+## 🚀 Why Me?
+𝗜𝗳 𝗜 𝗵𝗲𝗹𝗽𝗲𝗱 𝘆𝗼𝘂 𝘁𝗼 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺 𝗺𝗮𝗻𝘂𝗮𝗹 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝗶𝗻𝘁𝗼 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝘄𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀, 𝗿𝗲𝗱𝘂𝗰𝗲 𝗰𝗼𝘀𝘁𝘀, 𝗮𝗻𝗱 𝗮𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗲 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗴𝗿𝗼𝘄𝘁𝗵, 𝘄𝗼𝘂𝗹𝗱 𝘆𝗼𝘂 𝗯𝗲 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱?
 
+With over 3 years of experience in web, mobile, and desktop application development. Leverages AI tools to accelerate development workflows and enhance productivity. Designs scalable, high-performance applications that combine clean architecture with modern interfaces. Delivers efficient, maintainable solutions focused on maximizing business value and optimizing user experience.
 ---
 
 ## 🛠️ Tech Stack
