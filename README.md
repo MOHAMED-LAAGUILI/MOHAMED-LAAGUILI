@@ -1,4 +1,5 @@
 <div align="center">
+<img width="1584" height="396" alt="LinkedInBanner" src="https://github.com/user-attachments/assets/89c74c93-4148-4592-879c-6cf9eadd33dc" />
 
   <img src="https://github.com/user-attachments/assets/c5cede43-0704-43c0-9868-10d83c4b05ca" alt="GitHub Banner" style="width: 100%; height: auto; border-radius: 8px;">
 
