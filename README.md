@@ -60,7 +60,7 @@ With over 3 years of experience in web, mobile, and desktop application developm
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black">
 
-<b>DevOps</b><br>
+<b>Tools</b><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=flat-square">
