@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1584" height="396" alt="LinkedIn-Banner" src="https://github.com/user-attachments/assets/e13e50f3-5556-4457-8c2c-c18f62d6a82f" />
+<img width="1584" height="396" alt="LinkedIn-Banner"  src="https://github.com/user-attachments/assets/a3adf35e-e6a8-4af0-b532-93cdf2801f69" />
 
   <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" style="width: 30px; vertical-align: middle;"/>
