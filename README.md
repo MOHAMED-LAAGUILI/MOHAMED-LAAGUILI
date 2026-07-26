@@ -110,6 +110,7 @@ With over +2 years of experience in web, mobile, and desktop application develop
   <a href="https://wa.me/+212689770809" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+  
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V8B423WNGK)
 
 </div>
