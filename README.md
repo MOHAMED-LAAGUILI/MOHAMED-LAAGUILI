@@ -62,6 +62,7 @@ With over +2 years of experience in web, mobile, and desktop application develop
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira_(Agile)-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Jira_(Agile)-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,10 +76,8 @@ With over +2 years of experience in web, mobile, and desktop application develop
 ![AI SDK](https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![MCP Servers](https://img.shields.io/badge/MCP_Servers-6C47FF?style=for-the-badge)
 ![Agent Skills](https://img.shields.io/badge/Agent_Skills-0F172A?style=for-the-badge)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
 
 </div>
 
