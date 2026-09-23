@@ -92,7 +92,7 @@ With over +2 years of experience in web, mobile, and desktop application develop
 
 ---
 
-## 🤝 Let’s Collaborate
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%; height: auto; max-height: 25px;; aspect-ratio: 25 / 25; background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"> Let’s Collaborate
 
 𝗜’𝗺 𝗮𝗹𝘄𝗮𝘆𝘀 𝗼𝗽𝗲𝗻 𝘁𝗼 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝘁𝗵𝗮𝘁 𝗽𝘂𝘀𝗵 𝘁𝗲𝗰𝗵 𝗯𝗼𝘂𝗻𝗱𝗮𝗿𝗶𝗲𝘀! 𝗜𝗳 𝘆𝗼𝘂 𝗵𝗮𝘃𝗲 𝗮𝗻 𝗲𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗶𝗱𝗲𝗮 𝗼𝗿 𝗻𝗲𝗲𝗱 𝗮𝗻 𝗲𝘅𝘁𝗿𝗮 𝗵𝗮𝗻𝗱, 𝗹𝗲𝘁’𝘀 𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝗮𝗻𝗱 𝗯𝗿𝗶𝗻𝗴 𝗶𝘁 𝘁𝗼 𝗹𝗶𝗳𝗲.
 
