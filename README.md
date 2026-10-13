@@ -9,13 +9,6 @@
 
 <p><b>Full Stack Software Developer</b> · Web · Mobile · Desktop · AI · 🇲🇦 Morocco</p>
 
-<p>
-  <a href="https://mohamedlaaguili-v2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohamedlaaguili2001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mohamed.dev.2001@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mohamed-laaguili&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views" />
-</p>
-
 </div>
 
 I build **cross-platform web, mobile, and desktop applications** end to end — from database schema to polished UI. I enjoy turning complex problems into simple, creative solutions, and I'm increasingly focused on **AI-powered products and agentic workflows**. Let's build something great together. 💡
