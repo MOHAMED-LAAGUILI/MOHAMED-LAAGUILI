@@ -170,6 +170,4 @@ I'm always open to innovative projects that push tech boundaries. Have an exciti
 <a href="https://mohamedlaaguili-v2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://wa.me/212689770809"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
-<br /><br />
-
 </div>
