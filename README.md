@@ -172,6 +172,4 @@ I'm always open to innovative projects that push tech boundaries. Have an exciti
 
 <br /><br />
 
-<a href="https://ko-fi.com/V8B423WNGK"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" /></a>
-
 </div>
