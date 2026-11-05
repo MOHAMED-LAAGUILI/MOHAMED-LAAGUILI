@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="Mohamed Laaguili — Full Stack Software Developer" src="https://github.com/user-attachments/assets/539091b4-06e4-4d5a-a340-07e6cf242f2f" />
+<img width="1584" height="396" alt="LinkedIn-Banner" src="https://github.com/user-attachments/assets/c6c2e5c0-3dfb-45a0-bda1-1c5da5573df1" />
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="" width="34" />
