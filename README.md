@@ -4,7 +4,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="" width="34" />
-  Hi, I'm <a href="https://mohamedlaaguili-v2.vercel.app/">Mohamed Laaguili</a>
+  Hi, I'm <a href="https://mohamedlaaguili-v2.vercel.app/">Mohamed LAAGUILI</a>
 </h1>
 
 <p><b>Full Stack Software Developer</b> · Web · Mobile · Desktop · AI · 🇲🇦 Morocco</p>
